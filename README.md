@@ -1,4 +1,4 @@
-- Hi, I’m @bumpylumps!
+- Hi, I’m Alex!
 - I’m interested in coding, fine art, and investigating paranormal activity
 - I’m currently learning full stack development 
 - How to reach me: bumpsites.netlify.app
