@@ -1,6 +1,6 @@
 - Hi, I’m Alex!
 - I’m interested in coding, fine art, and investigating paranormal activity
-- I’m currently learning full stack development 
+- I’m currently learning full stack web development 
 - How to reach me: bumpsites.netlify.app
 
 <!---
