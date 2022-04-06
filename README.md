@@ -1,7 +1,7 @@
 ## Hi, I’m Alex!
 - I’m interested in coding, fine art, and investigating paranormal activity
 - I’m currently working with JS, CSS, HTML
-- Tightening my fullstack webdev skills in the 100Devs dojo
+- Tightening my fullstack webdev skills at the 100Devs agency
 - How to reach me: bumpsites.netlify.app
 
 <!---
