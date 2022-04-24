@@ -1,5 +1,6 @@
 ## Hi, I’m Alex!
 - Software Engineer @ 100Devs
+- Andover, CT
 - I’m interested in coding, fine art, and investigating paranormal activity
 - I’m currently working with JS, CSS, HTML
 - How to reach me: bumpsites.netlify.app
