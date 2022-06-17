@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Paranormal Projects**
 
-- 👨‍💻 All of my projects are available at [bumpsites.com](bumpsites.com)
+- 👨‍💻 All of my projects are available at [[bumpsites.com](https://www.bumpsites.com/)](bumpsites.com)
 
 - 📫 How to reach me: **alexander.fulop.art@gmail.com**
 
