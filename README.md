@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Alex Fulop!</h1>
-<h3 align="center">A software engineer @100Devs</h3>
+<h3 align="center">A full stack developer @100Devs</h3>
 
-- 🔭 I’m currently working on **GhostBuds and TarotBumps**!
+- 🔭 I’m currently working on **<a href="https://ghostbuds.cyclic.app/" target="_blank">GhostBuds</a> and <a href="https://tarot-bumps.cyclic.app/" target="_blank">TarotBumps</a>**!
 
 - 🌱 I’m currently learning about **Advanced Algorithms and JS quirks**
 
