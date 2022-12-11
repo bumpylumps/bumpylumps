@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **<a href="https://ghostbuds.cyclic.app/" target="_blank">GhostBuds</a> and <a href="https://tarot-bumps.cyclic.app/" target="_blank">TarotBumps</a>**!
 
-- 🌱 I’m currently learning about **Advanced Algorithms and JS quirks**
+- 🌱 I’m currently learning about **NestJS**
 
 - 👯 I’m looking to collaborate on **Open Source Paranormal Projects**
 
