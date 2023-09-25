@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [bumpsites.com](https://www.bumpsites.com/)
 
-- 📫 How to reach me: **alexander.fulop.art@gmail.com**
+- 📫 How to reach me: **bumpsites@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
