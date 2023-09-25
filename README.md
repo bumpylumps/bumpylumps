@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Alex Fulop!</h1>
 <h3 align="center">A full stack developer @100Devs</h3>
 
-- 🔭 I’m currently working on **<a href="https://ghostbuds.cyclic.app/" target="_blank">GhostBuds</a> and <a href="https://tarot-bumps.cyclic.app/" target="_blank">TarotBumps</a>**!
+- 🔭 I’m currently working on rebuilding **<a href="https://ghostbuds.cyclic.app/" target="_blank">GhostBuds</a> with NextJS and LeafletJS!
 
-- 🌱 I’m currently learning about **NestJS**
+- 🌱 I’m currently learning about hoisting and Binary Search Trees
 
 - 👯 I’m looking to collaborate on **Open Source Paranormal Projects**
 
