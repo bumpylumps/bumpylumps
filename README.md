@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Alex Fulop!</h1>
-<h3 align="center">A full stack developer @100Devs</h3>
+<h3 align="center">A full stack developer from CT</h3>
 
 - 🔭 I’m currently working on rebuilding **<a href="https://ghostbuds.cyclic.app/" target="_blank">GhostBuds</a>** with NextJS and LeafletJS!
 
-- 🌱 I’m currently learning about hoisting and Binary Search Trees
+- 🌱 I’m currently learning about making NPM packages
 
-- 👯 I’m looking to collaborate on **Open Source Paranormal Projects**
+- 👯 I’m looking for full-time opportunities
 
 - 👨‍💻 All of my projects are available at [bumpsites.com](https://www.bumpsites.com/)
 
