@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Alex Fulop!</h1>
-<h3 align="center">A full stack developer from CT</h3>
+<h3 align="center">A full stack web developer from CT</h3>
 
 - 🔭 I’m currently working on rebuilding **<a href="https://ghostbuds.cyclic.app/" target="_blank">GhostBuds</a>** with NextJS and LeafletJS!
 
