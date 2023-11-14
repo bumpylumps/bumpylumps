@@ -7,7 +7,7 @@
 
 - 👯 I’m looking for full-time opportunities
 
-- 👨‍💻 All of my projects are available at [bumpsites.com](https://www.bumpsites.com/)
+- 👨‍💻 All of my recent projects are available at [bumpsites.com](https://www.bumpsites.com/)
 
 - 📫 How to reach me: **bumpsites@gmail.com**
 
