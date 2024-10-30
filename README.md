@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Alex Fulop!</h1>
 <h3 align="center">A full stack web developer from CT</h3>
 
-- 🔭 I’m currently working on rebuilding **<a href="https://ghostbuds.cyclic.app/" target="_blank">GhostBuds</a>** with NextJS and LeafletJS!
+- 🔭 I’m currently working on rebuilding the **<a href="https://ghostbuds.cyclic.app/" target="_blank">GhostBuds</a>** backend in Go!
 
 - 🌱 I’m currently learning about making NPM packages
 
-- 👯 I’m looking for full-time opportunities
+- 👯 I’m looking for full-time back end or full stack opportunities
 
-- 👨‍💻 All of my recent projects are available at [bumpsites.com](https://www.bumpsites.com/)
+- 👨‍💻 All of my recent projects are available at [bumpsites.com](https://www.bumpsites.com/) and currently being redeployed with Fly.io
 
 - 📫 How to reach me: **bumpsites@gmail.com**
 
